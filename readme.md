@@ -1,3 +1,3 @@
-# CSS Grid Course Exercise Template
+# Udemy CSS Grid Course - Exercise 1
 
-A template for creating other repos.
+Exercise 1 for Udemy's [Ultimate CSS Grid Course](https://anniecannons.udemy.com/course/css-grid/).
