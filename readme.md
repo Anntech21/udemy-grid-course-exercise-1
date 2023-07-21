@@ -2,6 +2,10 @@
 
 Exercise Sheet 1 for Udemy's [Ultimate CSS Grid Course](https://anniecannons.udemy.com/course/css-grid/).
 
+### Setup
+
+Fork and clone this repo. You will be submitting the link to your Pull Request when you turn it in on Canvas. Please see Canvas for more information on submitting by Pull Request.
+
 ### Instructions
 
 ##### Exercise 1
