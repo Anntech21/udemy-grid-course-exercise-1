@@ -45,8 +45,7 @@
 .container {
     display: grid;
     text-align: center;
-    grid-template-rows:50px 50px;
-    grid-template-columns: 200px 200px 200px 200px;
+    grid-template:50px 50px / repeat(auto-fill,250px);
     border: solid;
     grid-row-gap: 10px;
     grid-column-gap: 10px;
