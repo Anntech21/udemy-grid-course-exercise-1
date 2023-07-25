@@ -41,3 +41,24 @@
   border: dotted;
   background-color: rgb(255, 0, 221);
 }
+
+.container {
+    display: grid;
+    text-align: center;
+    grid-template-rows:50px 50px;
+    grid-template-columns: 200px 200px 200px 200px;
+    border: solid;
+    grid-row-gap: 10px;
+    grid-column-gap: 10px;
+    border-color: rgb(232, 90, 13);
+    border: 10px;
+}
+
+.a {background-color: aqua;}
+.b {background-color: aqua;}
+.c {background-color: aqua;}
+.d {background-color: aqua;}
+.e {background-color: aqua;}
+.f {background-color: aqua;}
+.g {background-color: aqua;}
+.h {background-color: aqua;}
